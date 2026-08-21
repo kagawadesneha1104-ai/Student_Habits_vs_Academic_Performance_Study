@@ -83,10 +83,10 @@ The project implements the complete data analytics workflow:
 student-performance-analysis/
 │
 ├── data/
-│   └── student_performance.csv       <-- Raw student dataset
+│   └── student_habits_performance.csv       <-- Raw student dataset
 │
 ├── notebooks/
-│   └── student_analysis.ipynb        <-- Complete analysis
+│   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
 │
 ├── visualizations/
 │   ├── study_hours_vs_score.png
