@@ -256,8 +256,8 @@ pip install pandas numpy matplotlib jupyter
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd student-performance-analysis
+git clone <https://github.com/kagawadesneha1104-ai/Student_Habits_vs_Academic_Performance_Study.git>
+cd Student-performance-analysis
 ```
 
 ### 2️⃣ Install Dependencies
