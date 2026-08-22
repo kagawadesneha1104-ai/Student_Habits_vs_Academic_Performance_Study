@@ -6,6 +6,10 @@ The analysis focuses on variables such as **study hours, sleep duration, attenda
 
 ---
 
+
+<img width="1536" height="1024" alt="Student habits vs academic performance study dashboard" src="https://github.com/user-attachments/assets/57352be6-3cc8-4a12-909a-eb4c3160c285" />
+
+
 ## 🚀 Core Features
 
 The project implements the complete data analytics workflow:
@@ -89,11 +93,11 @@ student-performance-analysis/
 │   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
 │
 ├── visualizations/
-│   ├── study_hours_vs_score.png
-│   ├── attendance_vs_score.png
-│   ├── sleep_vs_score.png
-│   ├── social_media_vs_score.png
-│   └── correlation_analysis.png
+│   ├── <img width="715" height="572" alt="Study Hours VS Exam Score" src="https://github.com/user-attachments/assets/af23479f-2663-4f25-a25c-c307f308de67" />
+│   ├── 
+│   ├── 
+│   ├── 
+│   └── 
 │
 ├── presentation/
 │   └── student_performance_insights.pptx
