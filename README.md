@@ -83,7 +83,13 @@ The project implements the complete data analytics workflow:
 student-performance-analysis/
 │
 ├── data/
-│   └── student_habits_performance.csv       <-- Raw student dataset
+│    ├── raw dataset/
+│    │      └── student_habits_performance.csv       <-- Raw student dataset
+│    │
+│    └── cleaned dataset/
+│             ├── cleaned_dataset00211.csv
+│             ├── student_improvement.csv            <-- Cleaned student datasets
+│             └── top20_performers.csv
 │
 ├── notebooks/
 │   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
