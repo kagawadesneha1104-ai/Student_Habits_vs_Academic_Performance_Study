@@ -5,7 +5,7 @@
 The analysis focuses on variables such as **study hours, sleep duration, attendance, social media usage, and exam performance**, transforming raw student data into actionable insights through exploratory data analysis and statistical techniques.
 
 ---
-
+![alt text](<data/Student Habits vs Academic Performance Study.png>)
 ## 🚀 Core Features
 
 The project implements the complete data analytics workflow:
