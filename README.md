@@ -93,7 +93,7 @@ student-performance-analysis/
 │   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
 │
 ├── visualizations/
-│   ├── <img width="715" height="572" alt="Study Hours VS Exam Score" src="https://github.com/user-attachments/assets/af23479f-2663-4f25-a25c-c307f308de67" />
+│   ├── 
 │   ├── 
 │   ├── 
 │   ├── 
