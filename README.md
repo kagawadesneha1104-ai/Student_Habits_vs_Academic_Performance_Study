@@ -6,9 +6,6 @@ The analysis focuses on variables such as **study hours, sleep duration, attenda
 
 ---
 
-
-
-
 ## 🚀 Core Features
 
 The project implements the complete data analytics workflow:
@@ -92,11 +89,11 @@ student-performance-analysis/
 │   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
 │
 ├── visualizations/
-│   ├── Distribution of Exam Scores.png
-│   ├── Study Hours VS Exam Score.png
-│   ├── Average Exam Score by Gender.png
-│   ├── Distribution of Diet Quality.png
-│   └── Average Score Across Attendance Ranges.png
+│   ├── study_hours_vs_score.png
+│   ├── attendance_vs_score.png
+│   ├── sleep_vs_score.png
+│   ├── social_media_vs_score.png
+│   └── correlation_analysis.png
 │
 ├── presentation/
 │   └── student_performance_insights.pptx
