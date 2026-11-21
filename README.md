@@ -20,7 +20,7 @@ The project implements the complete data analytics workflow:
 
 2. **Exploratory Data Analysis**
 
-   * Analyzed **1,000 student records** across **8 behavioral and academic variables**.
+   * Analyzed **1,000 student records** across **16 behavioral and academic variables**.
    * Used Pandas to explore data distributions and patterns.
    * Calculated descriptive statistics including mean, median, minimum, maximum, and standard deviation.
    * Examined relationships between student habits and academic outcomes.
@@ -72,7 +72,7 @@ The project implements the complete data analytics workflow:
 | **Data Analysis**       | **Pandas**          | Data loading, cleaning, transformation, and analysis |
 | **Numerical Computing** | **NumPy**           | Numerical operations and statistical calculations    |
 | **Visualization**       | **Matplotlib**      | Data visualization and graphical analysis            |
-| **Dataset**             | **Student Records** | 1,000 student records across 8 variables             |
+| **Dataset**             | **Student Records** | 1,000 student records across 16 variables             |
 | **Presentation**        | **Insight Deck**    | 10-slide presentation of analytical findings         |
 
 ---
@@ -236,7 +236,7 @@ The project successfully transformed raw student records into meaningful analyti
 ### Major outcomes:
 
 * Analyzed **1,000 student records**.
-* Worked with **8 academic and behavioral variables**.
+* Worked with **16 academic and behavioral variables**.
 * Performed complete **data cleaning and transformation**.
 * Conducted **exploratory data analysis**.
 * Applied **descriptive statistics**.
