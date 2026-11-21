@@ -80,32 +80,46 @@ The project implements the complete data analytics workflow:
 ## 📂 Project Structure
 
 ```text
-student-performance-analysis/
+
+Student_Habits_vs_Academic_Performance_Study/
 │
 ├── data/
-│    ├── raw dataset/
-│    │      └── student_habits_performance.csv       <-- Raw student dataset
-│    │
-│    └── cleaned dataset/
-│             ├── cleaned_dataset00211.csv
-│             ├── student_improvement.csv            <-- Cleaned student datasets
-│             └── top20_performers.csv
+│   ├── raw dataset/
+│   │   └── student_habits_performance.csv
+│   │
+│   └── cleaned dataset/
+│       ├── cleaned_dataset00211.csv
+│       ├── student_improvement.csv
+│       └── top20_performers.csv
 │
-├── notebooks/
-│   └── Student_Habits_vs_Academic_Performance_Study.ipynb        <-- Complete analysis
+├── notebook/
+│   └── Student_Habits_vs_Academic_Performance_Study.ipynb
 │
-├── visualizations/
+├── visualization/
 │   ├── Distribution of Exam Scores.png
 │   ├── Study Hours VS Exam Score.png
 │   ├── Average Exam Score by Gender.png
 │   ├── Distribution of Diet Quality.png
 │   └── Average Score Across Attendance Ranges.png
 │
+├── screenshots/
+│   ├── Average Exam Score by Diet Quality.png
+│   ├── Distribution of Part Time Jobs.png
+│   ├── Exam Score without Range.png
+│   ├── Exam score By Diet Qualoty.png
+│   ├── Sleep Hours VS Exam Score.png
+│   ├── Study Hours VS Exam Score Line.png
+│   ├── Study Hours vs Exam Score Line Graph.png
+│   └── study Hours Per Day.png
+│
 ├── presentation/
 │   └── student_performance_insights.pptx
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+│
+└── Student Habits vs Academic Performance Study.png
+
 ```
 
 ---
