@@ -271,7 +271,7 @@ pip install pandas numpy matplotlib jupyter
 
 ```bash
 git clone https://github.com/kagawadesneha1104-ai/Student_Habits_vs_Academic_Performance_Study.git
-cd Student-performance-analysis
+cd Student_Habits_vs_Academic_Performance_Study
 ```
 
 ### 2️⃣ Install Dependencies
@@ -291,7 +291,7 @@ jupyter notebook
 Open:
 
 ```text
-notebooks/student_analysis.ipynb
+notebook/Student_Habits_vs_Academic_Performance_Study.ipynb
 ```
 
 Run the notebook cells sequentially to reproduce the complete analysis.
