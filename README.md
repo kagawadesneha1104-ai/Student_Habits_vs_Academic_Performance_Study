@@ -303,3 +303,12 @@ Run the notebook cells sequentially to reproduce the complete analysis.
 The primary objective of this project is to demonstrate a complete **data analytics workflow**, starting from raw student data and progressing through **cleaning, transformation, exploratory analysis, statistical analysis, visualization, and insight communication**.
 
 The project demonstrates how Python-based analytics can be used to transform raw datasets into meaningful insights that support better understanding and decision-making.
+
+
+
+## 👩‍💻 Author
+
+**Sneha Kagawade**  
+MCA – Data Science  
+
+- GitHub: [kagawadesneha1104-ai](https://github.com/kagawadesneha1104-ai)
